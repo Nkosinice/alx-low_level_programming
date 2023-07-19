@@ -2,8 +2,10 @@
 
 /**
  * main -  prints out _putchar, then a new line
- * Return; 0 = (Success)
+ *
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('_');
